@@ -4,7 +4,7 @@ A ML model for fraud detection, implemented in python.
 
 The dataset used is the paysim dataset and can be obtained from [kaggle](https://www.kaggle.com/ntnu-testimon/paysim1).
 
-Dataset should be downloaded and put into /data folder.
+Dataset should be downloaded and put into `data/` folder.
 
 ### Dataset information
 
