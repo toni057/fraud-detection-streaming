@@ -1,4 +1,4 @@
-data/
-models/
+!data/.gitkeep
+!models/.gitkeep
 */__pycache__
 */.ipynb*
